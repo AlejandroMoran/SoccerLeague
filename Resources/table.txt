@@ -1,0 +1,59 @@
+Equipo:Pumas
+Puntos:30
+Partidos ganados:10
+Partidos empatados:0
+Partidos perdidos:2
+
+Equipo:Club America
+Puntos:28
+Partidos ganados:9
+Partidos empatados:1
+Partidos perdidos:2
+
+Equipo:Santos Laguna
+Puntos:21
+Partidos ganados:6
+Partidos empatados:3
+Partidos perdidos:3
+
+Equipo:Monterrey
+Puntos:19
+Partidos ganados:5
+Partidos empatados:4
+Partidos perdidos:2
+
+Equipo:Toluca
+Puntos:19
+Partidos ganados:5
+Partidos empatados:4
+Partidos perdidos:3
+
+Equipo:Atlas
+Puntos:18
+Partidos ganados:5
+Partidos empatados:3
+Partidos perdidos:4
+
+Equipo:Puebla
+Puntos:17
+Partidos ganados:4
+Partidos empatados:5
+Partidos perdidos:3
+
+Equipo:Club Tijuana
+Puntos:16
+Partidos ganados:4
+Partidos empatados:4
+Partidos perdidos:4
+
+Equipo:Leon
+Puntos:14
+Partidos ganados:4
+Partidos empatados:2
+Partidos perdidos:6
+
+Equipo:Queretaro
+Puntos:13
+Partidos ganados:3
+Partidos empatados:4
+Partidos perdidos:5
